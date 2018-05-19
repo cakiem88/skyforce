@@ -3,17 +3,20 @@
       {
         "name": "Monster block jump",
         "url": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/stack_jump.jpg"
+        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/stack_jump.jpg",
+        "local_cache":"stack_jump1.jpg"
       },
       {
         "name": "Monster block jump",
         "url": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/stack_jump.jpg"
+        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/stack_jump.jpg",
+        "local_cache":"stack_jump2.jpg"
       },
       {
         "name": "Monster block jump",
         "url": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/stack_jump.jpg"
+        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/stack_jump.jpg",
+        "local_cache":"stack_jump3.jpg"
       }
     ]
 }
