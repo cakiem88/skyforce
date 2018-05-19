@@ -1,5 +1,5 @@
 {
-    "isClearCached":true,
+    "isClearCached":false,
     "games": [
       {
         "name": "Monster block jump",
