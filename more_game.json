@@ -1,0 +1,19 @@
+{
+    "games": [
+      {
+        "name": "Monster block jump",
+        "url": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",
+        "gameicon":"res/moregame/stack_jump.jpg"
+      },
+      {
+        "name": "Monster block jump",
+        "url": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",
+        "gameicon":"res/moregame/stack_jump.jpg"
+      },
+      {
+        "name": "Monster block jump",
+        "url": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",
+        "gameicon":"res/moregame/stack_jump.jpg"
+      }
+    ]
+}
