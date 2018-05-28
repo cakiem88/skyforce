@@ -7,61 +7,6 @@
         "url_android": "https://play.google.com/store/apps/details?id=com.dinostudio.cutejump",
         "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/stack_jump.jpg",
         "local_cache":"stack_jump1.jpg"
-      },
-      {
-        "name": "Game 1",
-        "url_ios": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",        
-        "url_android": "https://play.google.com/store/apps/details?id=com.dinostudio.cutejump",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/game_1.jpg",
-        "local_cache":"game_1.jpg"
-      },{
-        "name": "Game 2",
-        "url_ios": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",       
-        "url_android": "https://play.google.com/store/apps/details?id=com.dinostudio.cutejump",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/game_2.jpg",
-        "local_cache":"game_2.jpg"
-      },{
-        "name": "Game 3",
-        "url_ios": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",         
-        "url_android": "https://play.google.com/store/apps/details?id=com.dinostudio.cutejump",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/game_3.jpg",
-        "local_cache":"game_3.jpg"
-      },{
-        "name": "Game 4",
-        "url_ios": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",        
-        "url_android": "https://play.google.com/store/apps/details?id=com.dinostudio.cutejump",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/game_4.jpg",
-        "local_cache":"game_4.jpg"
-      },{
-        "name": "Game 5",
-        "url_ios": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",         
-        "url_android": "https://play.google.com/store/apps/details?id=com.dinostudio.cutejump",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/game_5.jpg",
-        "local_cache":"game_5.jpg"
-      },{
-        "name": "Game 6",
-        "url_ios": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",         
-        "url_android": "https://play.google.com/store/apps/details?id=com.dinostudio.cutejump",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/game_6.jpg",
-        "local_cache":"game_6.jpg"
-      },{
-        "name": "Game 7",
-        "url_ios": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",         
-        "url_android": "https://play.google.com/store/apps/details?id=com.dinostudio.cutejump",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/game_7.jpg",
-        "local_cache":"game_7.jpg"
-      },{
-        "name": "Game 8",
-        "url_ios": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",         
-        "url_android": "https://play.google.com/store/apps/details?id=com.dinostudio.cutejump",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/game_8.jpg",
-        "local_cache":"game_8.jpg"
-      },{
-        "name": "Game 9",
-        "url_ios": "https://itunes.apple.com/us/app/monster-block-jump/id1327194695?ls=1&mt=8",        
-        "url_android": "https://play.google.com/store/apps/details?id=com.dinostudio.cutejump",
-        "gameicon":"https://raw.githubusercontent.com/cakiem88/skyforce/master/images/game_9.jpg",
-        "local_cache":"game_9.jpg"
-      }      
+      }    
     ]
 }
